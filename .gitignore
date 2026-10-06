@@ -39,3 +39,10 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# .NET
+**/bin/
+**/obj/
+**/.vs/
+Roggy.Api/appsettings.Development.json
+roggy_backup.dump

@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Roggy.Api/Roggy.Api.csproj" />
+  <Project Path="Roggy.Application/Roggy.Application.csproj" />
+  <Project Path="Roggy.Contracts/Roggy.Contracts.csproj" />
+  <Project Path="Roggy.Domain/Roggy.Domain.csproj" />
+  <Project Path="Roggy.Infrastructure/Roggy.Infrastructure.csproj" />
+</Solution>
